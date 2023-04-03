@@ -5,9 +5,6 @@
 
 <b>Simple, Decent & Feature Rich Chatting Application.</b></br>
 
-<b>Check Youtube Course 👇<b>
-https://youtube.com/playlist?list=PL8kbUJtS6hyal7Uw7wTeYmv7yiNPH5kOq
-
 <b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br><br>
 <kbd>
 <img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/8.png" width=30% height=30%/>
@@ -35,9 +32,4 @@ https://youtube.com/playlist?list=PL8kbUJtS6hyal7Uw7wTeYmv7yiNPH5kOq
 <li>And Much More....
 </ul>
   
-<b>Watch Full Playlist on Youtube:</b>
-  https://youtube.com/playlist?list=PL8kbUJtS6hyal7Uw7wTeYmv7yiNPH5kOq
-  <br>
-<!--  <b>Note:</b> This Project is Much More Improved (i.e. Contains New Features) & Optimized than Youtube Course Project. -->
-For Feedback or Suggestions Mail Me At rajpurohitharsh2020@gmail.com 🙂
 
